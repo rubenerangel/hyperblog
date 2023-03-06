@@ -5,15 +5,21 @@ body {
   font-size: 16px;
   margin: 0;
   padding: 0;
+  background: #1e1f24;
 }
 
 #header {
-  background: #33A;
+  background: #37488b;
   box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.75);
   color: white;
   margin: 0;
-  padding: 0.5em;
+  padding: 0.5em 0 0.5em 2em;
   font-weight: bold;
+}
+
+#header #logo {
+  width: 30px;
+  vertical-align: middle;
 }
 
 #container {
@@ -29,6 +35,7 @@ body {
 }
 
 #post {
+  background: white;
   padding: 1em;
 }
 
@@ -36,4 +43,11 @@ body {
   font-weight: normal;
   font-size: 0.8em;
   padding: 0 0 0 1em;
+}
+
+#footer {
+  background: #777;
+  color: white;
+  text-align: center;
+  padding: 0.5em;
 }
