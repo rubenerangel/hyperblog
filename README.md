@@ -10,3 +10,4 @@ Un blog increíble para el[ curso de Git y Github]
 * Trucos muy locos del profesor
 * Incluye ejemplos en Windows, Linux y Mac
 * Disponible para todas las edades
+* Creado por Rubén Rangel
